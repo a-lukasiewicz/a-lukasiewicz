@@ -10,6 +10,8 @@ I'm Adam, Web Developer.
   <a href="https://www.linkedin.com/in/adam-%C5%82ukasiewicz-b2a8b3214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+<hr style="border:1px solid gray"> </hr>
+
 <h3 align="left">Languages I've worked with</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js 3">
@@ -21,12 +23,16 @@ I'm Adam, Web Developer.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
+<hr style="border:1px solid gray"> </hr>
+
 <h3 align="left">Tools: </h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 </p>
+
+<hr style="border:1px solid gray"> </hr>
 
 <h3 align="left">Currently learning: </h3>
 <p align="left">
