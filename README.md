@@ -12,7 +12,7 @@ I'm Adam, Web Developer.
 
 <hr style="border:1px solid gray"> </hr>
 
-<h3 align="left">Languages I've worked with</h3>
+<h3 align="left">Languages I've worked with:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js 3">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
