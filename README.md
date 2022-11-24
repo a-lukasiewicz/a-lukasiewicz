@@ -7,7 +7,6 @@ Portfolio: https://portfolio-a-lukasiewicz.vercel.app/
 
 <h3 align="left">Contact by:</h3>
 <p align="left">
-  <a href="https://twitter.com/a__lukasiewicz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:adamlukasiewicz3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/adam-%C5%82ukasiewicz-b2a8b3214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
@@ -40,6 +39,5 @@ Portfolio: https://portfolio-a-lukasiewicz.vercel.app/
 <h3 align="left">Currently learning: </h3>
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  
 </p>
 
