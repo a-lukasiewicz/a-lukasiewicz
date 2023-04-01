@@ -7,7 +7,7 @@ Portfolio: https://portfolio-a-lukasiewicz.vercel.app/
 
 ## Current Stack:
 - React Native
-- Next.js 13
+- Next.js
 - React - Redux, Redux Toolkit
 - TypeScript/JavaScript
 - Firebase
