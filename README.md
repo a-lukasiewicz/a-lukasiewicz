@@ -1,9 +1,10 @@
-### I'm Adam 👋🏻
+### I'm Adam Łukasiewicz 👋🏻
   
-Full-stack Software Engineer at @appfire, working in Atlassian ecosystem
+Full-stack Software Engineer at Appfire.
+Powering Atlassian Marketplace with AI-powered solutions.
 
 
-## Current Stack:
+### Current Stack
 
 - Typescript
 - Node
@@ -12,9 +13,10 @@ Full-stack Software Engineer at @appfire, working in Atlassian ecosystem
 - React
 - Next.js
 - Tailwind CSS
+- Mastra AI
 
 
-### Contact by:
+### Contact
 <p align="left">
   <a href="mailto:a_lukasiewicz@icloud.com">
   <img src="https://img.shields.io/badge/iCloud%20Mail-1D74F5?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud Mail">
@@ -24,7 +26,7 @@ Full-stack Software Engineer at @appfire, working in Atlassian ecosystem
 
 
 
-### Tools:
+### Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
