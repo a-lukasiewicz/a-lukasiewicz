@@ -6,14 +6,15 @@ Powering Atlassian Marketplace with AI-powered solutions.
 
 ### Current Stack
 
+- AWS
+- AI (MCP Servers and AI Agent workflows)
 - Typescript
 - Node
-- AWS
 - React Native
 - React
 - Next.js
 - Tailwind CSS
-- Mastra AI
+
 
 
 ### Contact
